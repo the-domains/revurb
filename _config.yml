@@ -1,7 +1,7 @@
 name: Revurb
 favicon: null
-layout_spectrum: 0.4127786720637232
-typography_spectrum: 0.6255129959899932
+layout_spectrum: 0.08807
+typography_spectrum: 0.58943
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#adb9af'
     - '#8d9e98'
     - '#828684'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.1875
+  lightness: 0.125
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
